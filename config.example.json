@@ -1,3 +1,4 @@
 {
-    "token":"yourToken c:"
+    "token":"yourToken c:",
+    "commandPrefix": "!"
 }

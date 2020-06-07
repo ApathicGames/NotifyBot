@@ -2,7 +2,7 @@
   "name": "notify-bot",
   "version": "0.0.1",
   "description": "A simple Discord bot that notify you when someone upload a video on Youtube or goes in live on Twitch and send a welcome message when someone join your server",
-  "main": "main.js",
+  "main": "src/main.ts",
   "repository": "https://github.com/ApathicGames/NotifyBot",
   "author": "ApathicGames <GhostyJade>",
   "license": "GPLv3",
@@ -14,6 +14,6 @@
     "nodemon": "^2.0.4"
   },
   "scripts": {
-    "dev": "nodemon main"
+    "dev": "nodemon src/main.ts"
   }
 }
